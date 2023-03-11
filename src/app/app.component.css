@@ -1,0 +1,20 @@
+
+.imagediv{
+    height: 350px;
+}
+
+.row{
+    width: 100%;
+}
+.imgclass{
+    width: 100%;
+    height: 280px;
+}
+.popupclass{
+    height: 400px;
+}
+a{
+    color: white !important;
+    padding: 2%;
+}
+
